@@ -1,0 +1,26 @@
+{
+  "name": "dianxiaobao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "@dcloudio/uni-ui": "^1.1.8",
+    "async-validator": "^3.2.4",
+    "cnchar": "^2.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoXinC/dianxiaobao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoXinC/dianxiaobao/issues"
+  },
+  "homepage": "https://github.com/GoXinC/dianxiaobao#readme"
+}
